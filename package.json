@@ -1,0 +1,23 @@
+{
+  "name": "die-roll-node-docker",
+  "version": "1.0.0",
+  "description": "Simple API so I can test EC2 CloudWatch metrics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterXL/die-roll-node-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterXL/die-roll-node-docker/issues"
+  },
+  "homepage": "https://github.com/JesterXL/die-roll-node-docker#readme",
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "restify": "^4.1.1"
+  }
+}
